@@ -2,6 +2,7 @@
 ## 챕터 2
 
 코드 추가하고 싶으면,
+
 ```sh
 $ git init
 $ git remote add origin "내 깃허브 원격저장소 링크"
